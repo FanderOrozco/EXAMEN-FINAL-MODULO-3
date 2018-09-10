@@ -1,0 +1,29 @@
+
+.contenedor{
+  background-color:#faf7fb ;
+}
+
+
+/*div{
+  border: 1px solid black;
+}*/
+
+.col1{
+  background-color: #f1e6f6;
+}
+
+.fila1 {
+  padding:10px;
+}
+h3{
+  background-color: #ebd5f6 ;
+  text-align:  center;
+}
+
+h4{
+    color: black;
+}
+
+h1, h5 {
+  margin-left:15px;
+}
